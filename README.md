@@ -1,2 +1,2 @@
 # GF-Application-Precedences
-simple demonstration to overcome application precedence difficulties
+Simple demonstration to overcome application precedence difficulties
